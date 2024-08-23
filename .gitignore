@@ -34,3 +34,7 @@ yarn-error.log*
 # typescript
 *.tsbuildinfo
 next-env.d.ts
+/.vs/slnx.sqlite
+/.vs/nextjs-dashboard/FileContentIndex/merges/2c9e7bbe-a27a-4c97-92ac-6e0bd7728e66.vsidx
+/.vs/nextjs-dashboard/FileContentIndex/fa02147e-8fcc-499e-b9d1-f834d832d362.vsidx
+/.vs/nextjs-dashboard/FileContentIndex
